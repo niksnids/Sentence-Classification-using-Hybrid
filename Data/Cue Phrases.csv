@@ -1,0 +1,471 @@
+﻿id,sentence,section_nr,Labels,has_citation,last_section_title
+1,"Future research should consider the potential effects of   more carefully, for example  ",6,Future work,0,Future Work
+2,This assumption might be addressed in future studies.,6,Future work,0,Future Work
+3,Future  research on   might extend the explanations of  ,6,Future work,0,Future Work
+4,This is very much the key component in future attempts to overcome  ,6,Future work,0,Future Work
+5,"In future work, investigating   might prove important.",6,Future work,0,Future Work
+6,This is desirable for future work.,6,Future work,0,Future Work
+7,Future investigations are necessary to validate the kinds of conclusions that can be drawn from this study.,6,Future work,0,Future Work
+8,Future studies could fruitfully explore this issue further by  ,6,Future work,0,Future Work
+9,Future research is needed to delimitate  ,6,Future work,0,Future Work
+10,It will be important that future research investigate  ,6,Future work,0,Future Work
+11,It is a question of future research to investigate  ,6,Future work,0,Future Work
+12,"We believe that apart from looking for  , future research should look for  ",6,Future work,0,Future Work
+13,"Regardless, future research could continue to explore  ",6,Future work,0,Future Work
+14,This is an issue for future research to explore.,6,Future work,0,Future Work
+15,Future studies could investigate the association between  ,6,Future work,0,Future Work
+16,Future studies should aim to replicate results in a larger  ,6,Future work,0,Future Work
+17, Future research should be devoted to the development of  ,6,Future work,0,Future Work
+18,This may constitute the object of future studies.,6,Future work,0,Future Work
+19,Future research could examine  ,6,Future work,0,Future Work
+20,Interesting research questions for future research that can be derived from  ,6,Future work,0,Future Work
+21,"In future research, more research is needed to apply and test  ",6,Future work,0,Future Work
+22,This is an interesting topic for future work.,6,Future work,0,Future Work
+23,Future research should further develop and confirm these initial findings by  ,6,Future work,0,Future Work
+24,Future research should certainly further test whether  ,6,Future work,0,Future Work
+25,"As also recommended above, future research should  ",6,Future work,0,Future Work
+26,Future research should examine strategically  ,6,Future work,0,Future Work
+27,Future research might apply  ,6,Future work,0,Future Work
+28,"In addition,   might prove an important area for future research.",6,Future work,0,Future Work
+29,A number of recommendations for future research are given.,6,Future work,0,Future Work
+30,"Therefore, future research should be conducted in more realistic settings to  ",6,Future work,0,Future Work
+31,Further research on   issue is warranted.,6,Future work,0,Future Work
+32,Further work is certainly required to disentangle these complexities in  ,6,Future work,0,Future Work
+33,"Looking forward, further attempts could prove quite beneficial to the literature.",6,Future work,0,Future Work
+34,Further research is needed to confirm this novel finding.,6,Future work,0,Future Work
+35,These result warrant further investigation via  ,6,Future work,0,Future Work
+36,This provides a good starting point for discussion and further research.,6,Future work,0,Future Work
+37,Further studies should investigate  ,6,Future work,0,Future Work
+38,The possibility of   warrants further investigation,6,Future work,0,Future Work
+39,This experimental design was employed because  ,4,Method,0,Method
+40,"In the course of the experiment,   played an important role.",4,Method,0,Method
+41,The experiments were performed with  ,4,Method,0,Method
+42,This was experimentally investigated by  ,4,Method,0,Method
+43,Most experiments have been carried out with  ,4,Method,0,Method
+44,The main focus of the experiments was to calculate  ,4,Method,0,Method
+45,Prior to each experiment  ,4,Method,0,Method
+46,The experiments are completely based on  ,4,Method,0,Method
+47,In our preliminary experiments we estimated that  ,4,Method,0,Method
+48,"In this experiment, we introduced a  ",4,Method,0,Method
+49,Methods were based on previous experiments  ,4,Method,0,Method
+50,This  proceeds in two stages:  ,4,Method,0,Method
+51,After a series of experiments it was found that  ,4,Method,0,Method
+52,"Therefore, in this experiment we define goals as  ",4,Method,0,Method
+53,"In this experiment, we introduced a  ",4,Method,0,Method
+54,"We consider the setup generic, however,   ",4,Method,0,Method
+55,This was designed to acquire approximately  ,4,Method,0,Method
+56,These were designed in such a way that  ,4,Method,0,Method
+57,This experimental design was employed because  ,4,Method,0,Method
+58,This was specifically designed for  ,4,Method,0,Method
+59,This was designed to acquire approximately  ,4,Method,0,Method
+60,There were   participants in this sample.,4,Method,0,Method
+61,Participants first provided informed consent about  ,4,Method,0,Method
+62,We performed additional data collection with  ,4,Method,0,Method
+63,"For this study, we analyzed the data collected from  ",4,Method,0,Method
+64,The data are less clear-cut than  ,4,Method,0,Method
+65,Data were collected and maintained by  ,4,Method,0,Method
+66,"For this purpose, we employ survey data collected from  ",4,Method,0,Method
+67,The application employs data obtained from  ,4,Method,0,Method
+68,The analyzed data included:  ,4,Method,0,Method
+69,The procedures of handling the data followed the suggestions of  ,4,Method,0,Method
+70,"Subsequently,   were then used to elicit further data.",4,Method,0,Method
+71,The experimental data on   is very scarce.,4,Method,0,Method
+72,The data in this work consists of  ,4,Method,0,Method
+73,Survey data were collected from  ,4,Method,0,Method
+74,This study used different data collection methods such as  ,4,Method,0,Method
+75,The quality can be enhanced by providing additional data for ,4,Method,0,Method
+76,Such data are prone to  ,4,Method,0,Method
+77,We utilize secondary data from  ,4,Method,0,Method
+78,The data was divided into  ,4,Method,0,Method
+79,Participants in the first data collection were  ,4,Method,0,Method
+80,The sample was heterogeneous with respect to  ,4,Method,0,Method
+81,The sample size in this study was not considered large enough for ,4,Method,0,Method
+82,We cannot deny the presence of some sample selection biases because  ,4,Method,0,Method
+83,The sample of respondents included  ,4,Method,0,Method
+84,The researchers pooled samples to  ,4,Method,0,Method
+85,The sample strategy was the same as for ,4,Method,0,Method
+86,"However, there are trends in our data to suggest that  ",4,Method,0,Method
+87,The trend values were then subjected to  ,4,Method,0,Method
+88,We analysed data as a function of  ,4,Method,0,Method
+89,"We used an established technique, namely  , to analyse  ",4,Method,0,Method
+90,This showed a judgement error of  ,4,Method,0,Method
+91,"To investigate this statistically, we calculated  ",4,Method,0,Method
+92,A   test was used to determine the significance of data,4,Method,0,Method
+93,Our data show that there is  ,4,Method,0,Method
+94,Our data suggest that   which  may be based partly on  ,4,Method,0,Method
+95,Data also revealed a significant  ,4,Method,0,Method
+96,Our data also address the  ,4,Method,0,Method
+97,Data were analyzed and correlated with  ,4,Method,0,Method
+98,The data are presented in Table  ,4,Method,0,Method
+99,"However, according to our data  ",4,Method,0,Method
+100,We undertake the empirical analysis using data collected in  ,4,Method,0,Method
+101,The data is analyzed from different points of view such as  ,4,Method,0,Method
+102,The data reveals significant differences in  ,4,Method,0,Method
+103,"Thus, the data supports the premise that  ",4,Method,0,Method
+104,Results provides a good fit to the data  ,4,Method,0,Method
+105,We compared the results with the original data in ways  ,4,Method,0,Method
+106,The evaluation of the data is shown in  ,4,Method,0,Method
+107,We explicitly accounted for  ,4,Method,0,Method
+108,Missing values were replaced using  ,4,Method,0,Method
+109,This analysis was confined to  ,4,Method,0,Method
+110,The evaluation of the data presented in this work leads to  ,4,Method,0,Method
+111,We explored these effects statistically by  ,4,Method,0,Method
+112,Statistical analyses was performed by using the   applying a significance level of  ,4,Method,0,Method
+113,The results were statistically significant when compared using  ,4,Method,0,Method
+114,This was normally distributed throughout the study population.,4,Method,0,Method
+115,This distribution resulted in  ,4,Method,0,Method
+116,Significant differences in the   remained.,4,Method,0,Method
+117,This was the only parameter that had a statistically significant correlation with  ,4,Method,0,Method
+118,We used   statistics to report  ,4,Method,0,Method
+119,This had a statistically significant impact on  ,4,Method,0,Method
+120,The correlation between   and   is positive and statistically significant at  ,4,Method,0,Method
+121,We calculate   statistic to test the null hypothesis that  ,4,Method,0,Method
+122,As shown in Table   are statistically significant at all levels.,4,Method,0,Method
+123,We can clearly see that the estimated values are positive and statistically significant at  ,4,Method,0,Method
+124,This revealed no statistical differences on  ,4,Method,0,Method
+125,The test for   found no significant differences.,4,Method,0,Method
+126,Our results show a statistically significant improvement in  ,4,Method,0,Method
+127,All differences in performance were statistically significant in  ,4,Method,0,Method
+128,The method achieves a statistically significant improvement compared to  ,4,Method,0,Method
+129,In order to obtain statistically representative   it is required to  ,4,Method,0,Method
+130,"To investigate this statistically, we calculated  ",4,Method,0,Method
+131,Descriptive statistics were calculated for all variables used in the study using  ,4,Method,0,Method
+132,The significance testing was based on  ,4,Method,0,Method
+133,All statistical analyses were performed using  ,4,Method,0,Method
+134,"For the current work, it is sufficient to point out that  ",4,Method,0,Method
+135,"Because we were interested in  , we considered only  ",4,Method,0,Method
+136,This was sufficient to  ,4,Method,0,Method
+137,This is sufficiently generic to be adapted to other  ,4,Method,0,Method
+138,This is generally sufficient to produce good results.,4,Method,0,Method
+139,"Still, results might be sufficient, especially in  ",4,Method,0,Method
+140,This was not possible due to insufficient observations.,4,Method,0,Method
+141,After a series of experiments   was considered as sufficient.,4,Method,0,Method
+142,It has been proven that   must be sufficient to  ,4,Method,0,Method
+143,This was not sensitive enough to  ,4,Method,0,Method
+144,This study cannot be considered large enough for  ,4,Method,0,Method
+145,This is simpler and usually sufficient to  ,4,Method,0,Method
+146,It turns out that it is sufficiently accurate for  ,4,Method,0,Method
+147,There is in fact sufficient information present in  ,4,Method,0,Method
+148,This is considered sufficiently unique for  ,4,Method,0,Method
+149,This is enough to get a sufficiently accurate solution.,4,Method,0,Method
+150,Such a potentially unrealistic assumption arises from the fact that  ,4,Method,0,Method
+151,"Based on these assumptions, hypotheses were developed:  ",4,Method,0,Method
+152,"Based on these assumptions,   have been treated as  ",4,Method,0,Method
+153,This is based on assumptions that  ,4,Method,0,Method
+154,These assumptions are generally accepted these days ,4,Method,0,Method
+155,The fundamental assumptions of the  models are:  ,4,Method,0,Method
+156,This assumption is supported by the fact that  ,4,Method,0,Method
+157,"Under certain assumptions,   can be construed as  ",4,Method,0,Method
+158,These assumptions result in  ,4,Method,0,Method
+159,This assumption might be addressed in future studies by  ,4,Method,0,Method
+160,This compilation of research assumptions should result in  ,4,Method,0,Method
+161,These assumptions have been disproved by  ,4,Method,0,Method
+162,"According to   assumption, the study reports faithfully  ",4,Method,0,Method
+163,This seems to be a common problem in  ,1,Motivation,0,Introduction
+164,This leads to myriad problems in  ,1,Motivation,0,Introduction
+165,The main problem is that  ,1,Motivation,0,Introduction
+166,There is a further problem with  ,1,Motivation,0,Introduction
+167,One primary problem with   is that  ,1,Motivation,0,Introduction
+168,The methods are not without their problems as will be discussed in  ,1,Motivation,0,Introduction
+169,The foremost problems are the facts that  ,1,Motivation,0,Introduction
+170,This makes up for the problem of  ,1,Motivation,0,Introduction
+171,This seems to be a common problem in  ,1,Motivation,0,Introduction
+172,This is a complex problem and to simplify it requires  ,1,Motivation,0,Introduction
+173,A challenging problem which arises in this domain is  ,1,Motivation,0,Introduction
+174,These problems are difficult to handle  ,1,Motivation,0,Introduction
+175,This is typically a complex problem  ,1,Motivation,0,Introduction
+176,A well-known problem with    is that it does not take into account the  ,1,Motivation,0,Introduction
+177,One of the problems is that it considers only the  ,1,Motivation,0,Introduction
+178,The key problem with this technique is  ,1,Motivation,0,Introduction
+179,It is usually an ill-posed problem in the case of  ,1,Motivation,0,Introduction
+180,This problem is well-posed and does not require to impose  ,1,Motivation,0,Introduction
+181,This appears as a more straightforward problem compared to the  ,1,Motivation,0,Introduction
+182,This turns out to be even more problematic because  ,1,Motivation,0,Introduction
+183,The problem with such an implementation is that  ,1,Motivation,0,Introduction
+184,This poses some problems when carrying out the  ,1,Motivation,0,Introduction
+185,This problem  has attracted more attention in the field of  ,1,Motivation,0,Introduction
+186,This is a basic chicken-and-egg problem because  ,1,Motivation,0,Introduction
+187,"Unfortunately, this approach results in problems related to  ",1,Motivation,0,Introduction
+188,These constraints make the problem difficult to  ,1,Motivation,0,Introduction
+189,Most of the research in this field is aimed at solving this problem.,1,Motivation,0,Introduction
+190,This remains an open problem in the area.,1,Motivation,0,Introduction
+191,This problem has received substantial interest.,1,Motivation,0,Introduction
+192,These examples highlight the problem that  ,1,Motivation,0,Introduction
+193,The main practical problem that confronts us is  ,1,Motivation,0,Introduction
+194,There is no previous research using   approach.,1,Motivation,0,Introduction
+195,"As far as we know, no previous research has investigated  ",1,Motivation,0,Introduction
+196,There has been less previous evidence for  ,1,Motivation,0,Introduction
+197,Other studies have failed to  ,1,Motivation,0,Introduction
+198,"To our knowledge, no study has yielded  ",1,Motivation,0,Introduction
+199,No study to date has examined  ,1,Motivation,0,Introduction
+200,Only a few studies have shown  ,1,Motivation,0,Introduction
+201,"However,   has rarely been studied directly.",1,Motivation,0,Introduction
+202,"Moreover, few studies have focussed on  ",1,Motivation,0,Introduction
+203,"In particular no study, to our knowledge, has considered  ",1,Motivation,0,Introduction
+204,One way to overcome these problems is to  ,1,Aim,0,Introduction
+205,There are many alternative methods are available for solving these problems.,1,Aim,0,Introduction
+206,In order to rectify the problem of  ,1,Aim,0,Introduction
+207,A solution to this problem is proposed in  ,1,Aim,0,Introduction
+208,One approach to solve this problem involves the use of  ,1,Aim,0,Introduction
+209,An alternative approach to the problem is  ,1,Aim,0,Introduction
+210,This can be applied to solve these problems.,1,Aim,0,Introduction
+211,A number of works have shown that this problem can be overcome by using  ,1,Aim,0,Introduction
+212,A large number of alternative approaches have been developed over the last few decades to ++,1,Aim,0,Introduction
+213,"To overcome this problem, in the next section we demonstrate  ",1,Aim,0,Introduction
+214,One way to overcome this problem is to  ,1,Aim,0,Introduction
+215,"To overcome this problem, some approaches have been made  ",1,Aim,0,Introduction
+216,One way of recovering from this problem could be to  ,1,Aim,0,Introduction
+217,This has been proposed to surmount the problems caused by  ,1,Aim,0,Introduction
+218,A different approach to the traditional problem is given in  ,1,Aim,0,Introduction
+219,A whole range of different approaches to the problem are available.,1,Aim,0,Introduction
+220,These techniques have potential to solve contemporary problems in  ,1,Aim,0,Introduction
+221,We should tailor specific solutions to specific problems  ,1,Aim,0,Introduction
+222,The standard solution to the problem is based on  ,1,Aim,0,Introduction
+223,The solution proposed here addresses only the problem of  ,1,Aim,0,Introduction
+224,There are techniques that have been developed to solve this problem  ,1,Aim,0,Introduction
+225,This problem is usually overcome by  ,1,Aim,0,Introduction
+226,There have been several attempts to solve the problem  ,1,Aim,0,Introduction
+227,There exist many methods for dealing with this problem  ,1,Aim,0,Introduction
+228,"Broadly speaking, the problem can be addressed by  ",1,Aim,0,Introduction
+229,One of the simplest ways of tackling this problem is  ,1,Aim,0,Introduction
+230,This problem has been largely studied and many viable solutions have been found.,1,Aim,0,Introduction
+231,"In general, this problem can be tackled in two different ways.",1,Aim,0,Introduction
+232,Other approaches have been shown to cope with the problem more efficiently.,1,Aim,0,Introduction
+233,We will review the main approaches to solve this problem.,1,Aim,0,Introduction
+234,"Recently, a more general solution has been proposed for this problem.",1,Aim,0,Introduction
+235,Both these works provide a solution to the problem.,1,Aim,0,Introduction
+236,Recent methods focus on overcoming the problems by proposing different schemes for  ,1,Aim,0,Introduction
+237,This strategy is not uncommon in this kind of problems.,1,Aim,0,Introduction
+238,We can apply our algorithm to solve this difficult problem.,1,Aim,0,Introduction
+239,This is how the problem can be tackled  ,1,Aim,0,Introduction
+240,We have developed this generic method to solve a variety of problems.,1,Aim,0,Introduction
+241,We will now demonstrate our method on some specific problems.,1,Aim,0,Introduction
+242,Here we solve several problems simultaneously.,1,Aim,0,Introduction
+243,We have undergone a rethinking of the problem by  ,1,Aim,0,Introduction
+244,A possible solution to the problem at hand is  ,1,Aim,0,Introduction
+245,It is clear that the problem could be easily tackled by  ,1,Aim,0,Introduction
+246,It is of interest to know whether    still hold true.,1,Motivation,0,Introduction
+247,It would be of special interest to ,1,Motivation,0,Introduction
+248,We therefore analyzed   and investigated whether  ,1,Motivation,0,Introduction
+249,"For this study, it was of interest to investigate  ",1,Motivation,0,Introduction
+250,We investigated whether   can be partly explained by  ,1,Motivation,0,Introduction
+251,"To examine the impact of  , we tested  ",1,Motivation,0,Introduction
+252,We have investigated the effect of  ,1,Motivation,0,Introduction
+253,We characterize different aspects of  ,1,Motivation,0,Introduction
+254,One way to investigate   was to  ,1,Motivation,0,Introduction
+255,A new approach is therefore needed for  ,1,Motivation,0,Introduction
+256,"To illuminate this uncharted area, we examined  ",1,Motivation,0,Introduction
+257,The aim is to develop more sophisticated methods for  ,1,Aim,0,Introduction
+258,The aim of this work is to develop  ,1,Aim,0,Introduction
+259,"The aims in this chapter are twofold: First  , Second  ",1,Aim,0,Introduction
+260,"For our first goal, we focus on two problems  ",1,Aim,0,Introduction
+261,The aim here is to investigate  ,1,Aim,0,Introduction
+262,The overall goal of this work was to  ,1,Aim,0,Introduction
+263,This project aims to develop an overarching framework to  ,1,Aim,0,Introduction
+264,The aim of the experiment is to compare  ,1,Aim,0,Introduction
+265,The ultimate goal is to produce a  ,1,Aim,0,Introduction
+266,The overall goal of this thesis was to pursue  ,1,Aim,0,Introduction
+267,After defining the problem we explain the goals of the thesis.,1,Aim,0,Introduction
+268,"With this aim in mind, in this paper we present a new method for  ",1,Aim,0,Introduction
+269,Our research aims at finding a solution for this challenging problem of   ,1,Aim,0,Introduction
+270,"There is no overall goal, apart from  ",1,Aim,0,Introduction
+271,We examine some previous work and propose a new method for  ,1,Aim,0,Introduction
+272,There are too many simultaneous goals making it difficult to  ,1,Aim,0,Introduction
+273,One of the major aims of this work was to create  ,1,Aim,0,Introduction
+274,The main objective is to investigate methods for improving  ,1,Aim,0,Introduction
+275,The objectives can be restated in the light of  ,1,Aim,0,Introduction
+276,The objective is to devise and implement a system for  ,1,Aim,0,Introduction
+277,The objectives were partially met by developing a method to  ,1,Aim,0,Introduction
+278,The objective is to demonstrate the feasibility of  ,1,Aim,0,Introduction
+279,One of the objectives is to improve the  ,1,Aim,0,Introduction
+280,This thesis documents several key contributions made to the fields of  ,5,Contribution,0,Contribution
+281,This thesis has made a number of significant contributions to the field of  ,5,Contribution,0,Contribution
+282,The contributions made here have wide applicability.,5,Contribution,0,Contribution
+283,The contributions made should be of wide interest.,5,Contribution,0,Contribution
+284,The first main contribution proposed in this field is a  ,5,Contribution,0,Contribution
+285,The contributions of this work are presented as follows:  ,5,Contribution,0,Contribution
+286,"The main achievements, including contributions to the field can be summarised as follows:  ",5,Contribution,0,Contribution
+287,We summarize the main contributions of this thesis.,5,Contribution,0,Contribution
+288,The key contribution of this work is the solution it provides  ,5,Contribution,0,Contribution
+289,It has numerous advantages as explained here  ,5,Contribution,0,Contribution
+290,It has significant benefits in terms of  ,5,Contribution,0,Contribution
+291,There is a clear advantage in following the methods of  ,5,Contribution,0,Contribution
+292,This has particular advantages over other  ,5,Contribution,0,Contribution
+293,All of these advantages make it particularly valuable in  ,5,Contribution,0,Contribution
+294,One of the primary benefits of this algorithm is  ,5,Contribution,0,Contribution
+295,This gives a significant advantage because  ,5,Contribution,0,Contribution
+296,These point out the advantages and practicability of  ,5,Contribution,0,Contribution
+297,One of the key benefits of the algorithm is  ,5,Contribution,0,Contribution
+298,The main advantage compared to previous method is  ,5,Contribution,0,Contribution
+299,This present some practical advantages.,5,Contribution,0,Contribution
+300,The main advantage is the simplified pattern.,5,Contribution,0,Contribution
+301,One practical advantage of the method is that it can be used in  ,5,Contribution,0,Contribution
+302,The advantage becomes all the more significant when  ,5,Contribution,0,Contribution
+303,"In comparison with other techniques, this method has the advantage of  ",5,Contribution,0,Contribution
+304,The most important advantage of this method is that it can perform very well in  ,5,Contribution,0,Contribution
+305,It yielded significant speed advantages when  ,5,Contribution,0,Contribution
+306,The benefit of using the   is expected to  ,5,Contribution,0,Contribution
+307,The main advantage is that we are able to  ,5,Contribution,0,Contribution
+308,To give some idea of the benefits of this method  ,5,Contribution,0,Contribution
+309,The additional advantage of using this method is that it results in  ,5,Contribution,0,Contribution
+310,This is an important advantage of this algorithm  ,5,Contribution,0,Contribution
+311,These are the main advantages of this method.,5,Contribution,0,Contribution
+312,"From the short review above, key findings emerge:  ",4,Emperical Result,0,Findings
+313,"We describe the results of  , which show  ",4,Emperical Result,0,Findings
+314,This suggests that  ,4,Emperical Result,0,Findings
+315,We showed that  ,4,Emperical Result,0,Findings
+316,Our findings on   at least hint that  ,4,Emperical Result,0,Findings
+317,This is an important finding in the understanding of the  ,4,Emperical Result,0,Findings
+318,The present study confirmed the findings about  ,4,Emperical Result,0,Findings
+319,Another promising finding was that  ,4,Emperical Result,0,Findings
+320,Our results demonstrated that  ,4,Emperical Result,0,Findings
+321,This result highlights that little is known about the  ,4,Emperical Result,0,Findings
+322,A further novel finding is that  ,4,Emperical Result,0,Findings
+323,"Together, the present findings confirm  ",4,Emperical Result,0,Findings
+324,The implications of these findings are discussed in  ,4,Emperical Result,0,Findings
+325,"The results demonstrate two things.  First,  . Second,   ",4,Emperical Result,0,Findings
+326,The results of the experiment found clear support for the  ,4,Emperical Result,0,Findings
+327,This analysis found evidence for  ,4,Emperical Result,0,Findings
+328,Planned comparisons revealed that  ,4,Emperical Result,0,Findings
+329,Our results casts a new light on  ,4,Emperical Result,0,Findings
+330,This section summarises the findings and contributions made.,4,Emperical Result,0,Findings
+331,"It performs well, giving good results.",4,Emperical Result,0,Findings
+332,This gives clearly better results than  ,4,Emperical Result,0,Findings
+333,The results confirm that this a good choice for  ,4,Emperical Result,0,Findings
+334,"From the results, it is clear that  ",4,Emperical Result,0,Findings
+335,"In this section, we will illustrate some experimental results.",4,Emperical Result,0,Findings
+336,This delivers significantly better results due to  ,4,Emperical Result,0,Findings
+337,The result now provides evidence to  ,4,Emperical Result,0,Findings
+338,"It leads to good results, even if the improvement is negligible.",4,Emperical Result,0,Findings
+339,This yields increasingly good results on data.,4,Emperical Result,0,Findings
+340,The result of this analysis is then compared with the   ,4,Emperical Result,0,Findings
+341,The applicability of these new results are then tested on  ,4,Emperical Result,0,Findings
+342,This is important to correctly interpret the results.,4,Emperical Result,0,Findings
+343,The results are substantially better than  ,4,Emperical Result,0,Findings
+344,The results lead to similar conclusion where  ,4,Emperical Result,0,Findings
+345,Superior results are seen for  ,4,Emperical Result,0,Findings
+346,From these results it is clear that  ,4,Emperical Result,0,Findings
+347,Extensive results carried out show that this method improves  ,4,Emperical Result,0,Findings
+348,We obtain good results with this simple method.,4,Emperical Result,0,Findings
+349,"However, even better results are achieved when using our algorithm.",4,Emperical Result,0,Findings
+350,It is worth discussing these interesting facts revealed by the results of   ,4,Emperical Result,0,Findings
+351,"Overall, our method was the one that obtained the most robust results.",4,Emperical Result,0,Findings
+352,Slightly superior results are achieved with our algorithm.,4,Emperical Result,0,Findings
+353,The result is equal to or better than a result that is currently accepted.,4,Emperical Result,0,Findings
+354,The results demonstrated in this chapter match state of the art methods.,3,Relation to literature,1,Findings
+355,Here we compare the results of the proposed method with those of the traditional methods.,3,Relation to literature,1,Findings
+356,"These results go beyond previous reports, showing that  ",3,Relation to literature,1,Findings
+357,In line with previous studies  ,3,Relation to literature,1,Findings
+358,This result ties well with previous studies wherein  ,3,Relation to literature,1,Findings
+359,Contrary to the findings of   we did not find  ,3,Relation to literature,1,Findings
+360,They have demonstrated that  ,3,Relation to literature,1,Findings
+361,Others have shown that   improves  ,3,Relation to literature,1,Findings
+362,"By comparing the results from  , we hope to determine  ",3,Relation to literature,1,Findings
+363,"However, in line with the ideas of  , it can be concluded that  ",3,Relation to literature,1,Findings
+364,"When comparing our results to those of older studies, it must be pointed out that  ",3,Relation to literature,1,Findings
+365,We have verified that using   produces similar results,3,Relation to literature,1,Findings
+366,Overall these findings are in accordance with findings reported by  ,3,Relation to literature,1,Findings
+367,"Even though we did not replicate the previously reported  , our results suggest that  ",3,Relation to literature,1,Findings
+368,A similar conclusion was reached by  ,3,Relation to literature,1,Findings
+369,"However, when comparing our results to those of older studies, it must be pointed out  ",3,Relation to literature,1,Findings
+370,This is consistent with what has been found in previous  ,3,Relation to literature,1,Findings
+371,A similar pattern of results was obtained in  ,3,Relation to literature,1,Findings
+372,The findings are directly in line with previous findings,3,Relation to literature,1,Findings
+373,These basic findings are consistent with research showing that  ,3,Relation to literature,1,Findings
+374,Other results were broadly in line with  ,3,Relation to literature,1,Findings
+375,Because of the lack of   we decided to not investigate  ,7,limitation,0,Limitation
+376,One concern about the findings of   was that  ,7,limitation,0,Limitation
+377,"Because of this potential limitation, we treat  ",7,limitation,0,Limitation
+378,The limitations of the present studies naturally include  ,7,limitation,0,Limitation
+379,"Regarding the limitations of  , it could be argued that  ",7,limitation,0,Limitation
+380,Another limitation of this  ,7,limitation,0,Limitation
+381,This limitation is apparent in many  ,7,limitation,0,Limitation
+382,Another limitation in   involves the issue of  ,7,limitation,0,Limitation
+383,The main limitation is the lack of  ,7,limitation,0,Limitation
+384,One limitation is found in this case.,7,limitation,0,Limitation
+385,One limitation of these methods however is that they  ,7,limitation,0,Limitation
+386,It presents some limitations such as  ,7,limitation,0,Limitation
+387,"Although widely accepted, it suffers from some limitations due to  ",7,limitation,0,Limitation
+388,An apparent limitation of the method is  ,7,limitation,0,Limitation
+389,There are several limitations to this approach.,7,limitation,0,Limitation
+390,One limitation of our implementation is that it is  ,7,limitation,0,Limitation
+391,A major source of limitation is due to   ,7,limitation,0,Limitation
+392,The approach utilised suffers from the limitation that  ,7,limitation,0,Limitation
+393,The limitations are becoming clear  ,7,limitation,0,Limitation
+394,It suffers from the same limitations associated with a  ,7,limitation,0,Limitation
+395,This is defined as,1,Defination,0,Defination
+396,A sun is a star that shines,1,Defination,0,Defination
+397,We define galaxy as the group of stars,1,Defination,0,Defination
+398,RQ: How can the ,1,Research Question,0,Introduction
+399,Research Question: What can be the,1,Research Question,0,Introduction
+400,RQ: What can the ,1,Research Question,0,Introduction
+401,More specific research questions will be introduced and investigated in ,1,Research Question,0,Introduction
+402,A further question is whether ,1,Research Question,0,Introduction
+403,"Finally, another promising line of research would be ",1,Research Question,0,Introduction
+404,The study addresses several further questions on ,1,Research Question,0,Introduction
+405,Some of the interesting questions in this context are ,1,Research Question,0,Introduction
+406,"In order to address the questions outlined above, we report here ",1,Research Question,0,Introduction
+407,These questions are of central interest as much recent research in ,1,Research Question,0,Introduction
+408,"Furthermore,  is arguably an important question to be addressed.",1,Research Question,0,Introduction
+409,The question now is how  can be used to explain ,1,Research Question,0,Introduction
+410,Study addresses the research question ,1,Research Question,0,Introduction
+411,"In order to properly address this question, we ",1,Research Question,0,Introduction
+412,An important question associated with  is ,1,Research Question,0,Introduction
+413,A critical open question is whether ,1,Research Question,0,Introduction
+414,A still unsolved question is whether ,1,Research Question,0,Introduction
+415,This remains an open question as ,1,Research Question,0,Introduction
+416,This question has previously never been addressed because ,1,Research Question,0,Introduction
+417,This study offers a test of  research question,1,Research Question,0,Introduction
+418,Study addresses the research question ,1,Research Question,0,Introduction
+419,Even in general  research strategies is needed to explain ,1,Research Question,0,Introduction
+420,The researcher should be interested here in ,1,Research Question,0,Introduction
+421,Many questions remain unanswered ,1,Research Question,0,Introduction
+422,There are some potentially open questions about the validity of ,1,Research Question,0,Introduction
+423,The question that then naturally arises is ,1,Research Question,0,Introduction
+424,The question then becomes how best to define,1,Research Question,0,Introduction
+425,This was an important question to study as ,1,Research Question,0,Introduction
+426,We postulate that these were likely caused by the ,1,Hypothesis,0,Hypothesis
+427,It could be hypothesized that ,4,Hypothesis,0,Hypothesis
+428,The aims of the present study were to test the following hypotheses: ,2,Hypothesis,0,Hypothesis
+429,"To test this theory, we hypothesised that",1,Hypothesis,0,Hypothesis
+430,"In this study, I hypothesized that a significant correlation exists in",1,Hypothesis,0,Hypothesis
+431,"In the classical deﬁnition, this refers to",1,Defination,0,Random
+432,There is no proper deﬁnition for  in the case of,1,Defination,0,Random
+433,In our experiments here we define our  to be ,3,Defination,0,Random
+434,It is first important to define what would constitute,3,Defination,0,Random
+435,"This definition is vague, and may be less than helpful when",3,Defination,0,Random
+436,"Also , only German business models have been assessed here and these might inherit attributes reflecting the specifics of the German health - care market , which is a highly regulated environment .",10,limitation,0,limitation
+437,There may be some possible limitations in this study.”,10,limitation,0,limitation
+438,“The findings of this study have to be seen in light of some limitations.”,10,limitation,0,limitation
+439, “The first is the…The second limitation concerns the…”,10,limitation,0,limitation
+440, “The empirical results reported herein should be considered in the light of some limitations.”,10,limitation,0,limitation
+441,"“This research, however, is subject to several limitations.”",10,limitation,0,limitation
+442,“The primary limitation to the generalization of these results is…”,10,limitation,0,limitation
+443,"“Nonetheless, these results must be interpreted with caution and a number of limitations should be borne in mind.”",10,limitation,0,limitation
+444,"“As with the majority of studies, the design of the current study is subject to limitations.”",10,limitation,0,limitation
+445,"“There are two major limitations in this study that could be addressed in future research. First, the study focused o",10,limitation,0,limitation
+446,we found the complex system,10,Contribution,0,Contribution
+447,we uncover an distinct section ,10,Contribution,0,Contribution
+448,we show from our result that,10,Contribution,0,Contribution
+449,we see some evidence ,10,Contribution,0,Contribution
+450,our findings suggests ,10,Contribution,0,Contribution
+451,we have highlighted,10,Contribution,0,Contribution
+452,the results support the hypothesis,18,Hypothesis Result,0,hypothesis testing 
+453,they partially support the hypothesis ,18,Hypothesis Result,0,hypothesis testing 
+454,the results provide support for many of the hypotheses,18,Hypothesis Result,0,hypothesis testing 
+455,the results support the notion ,18,Hypothesis Result,0,hypothesis testing 
+456,hypothesis 2a is supported,18,Hypothesis Result,0,hypothesis testing 
+457,the results support hypothesis 1,18,Hypothesis Result,0,hypothesis testing 
+458,"thus , h1 is supported .",18,Hypothesis Result,0,hypothesis testing 
+459,"thus , h2 is also supported .",18,Hypothesis Result,0,hypothesis testing 
+460,"thus , h3 is supported .",18,Hypothesis Result,0,hypothesis testing 
+461,"thus , h4 and h5 are supported .",18,Hypothesis Result,0,hypothesis testing 
+462,"again , h3 and h4 are supported .",18,Hypothesis Result,0,hypothesis testing 
+463,"thus , Ïƒ hypothesis 1 is supported .",18,Hypothesis Result,0,hypothesis testing 
+464,this result supports hypothesis 4 .,18,Hypothesis Result,0,hypothesis testing 
+465,"thus , Ïƒ  hypothesis 8 is supported .",18,Hypothesis Result,0,hypothesis testing 
+466,"therefore , Ïƒ  hypothesis 3 is not supported .",18,Hypothesis Result,0,hypothesis testing 
+467,"furthermore , we found support for  hypotheses .",18,Hypothesis Result,0,hypothesis testing 
+468,"however , we could not find support for two of our hypotheses",18,Hypothesis Result,0,hypothesis testing 
+469,"by contrast , the model is strongly positive ",18,Hypothesis Result,0,hypothesis testing 
+470,the results indicate partial support for h2a,18,Hypothesis Result,0,hypothesis testing 
